@@ -1,0 +1,14 @@
+body {
+  padding-top: 50px;
+}
+
+.main {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.rmc-student-events {
+  background-color: red;
+  color: black;
+}
+
